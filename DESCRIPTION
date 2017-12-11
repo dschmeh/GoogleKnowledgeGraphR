@@ -1,4 +1,4 @@
-Package: GoogleKnowledgeGraph
+Package: GoogleKnowledgeGraphR
 Type: Package
 Title: A simple Package to retrieve information from Google Knowledge Graph API
 Version: 0.1.0
