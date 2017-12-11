@@ -12,5 +12,6 @@ devtools::install_github("dschmeh/GoogleKnowledgeGraphR")
 # Getting Data form the API
 Getting data for a specific Keyword:
 ```
-gkg("nike")
+keyword<-"nike"
+gkg(keyword)
 ```
