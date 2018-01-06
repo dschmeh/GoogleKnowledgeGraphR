@@ -8,6 +8,15 @@ gkg(query, token = "AIzaSyDsxs2vKm33doRABnW4JoieK8RrDQvJwds",
   language = "en", limit = 1, types = "", prefix = FALSE,
   type_output = TRUE)
 }
+\arguments{
+\item{query}{character. The keyword you want to get the information for.}
+\item{token}{character. The token for yor Google API Project. Please use your own token if you have a lot of querys. You can find additional informations about the token here: https://developers.google.com/knowledge-graph/prereqs.}
+\item{language}{character. The list of language codes (defined in ISO 639) to run the query with. Default is "en".}
+\item{limit}{numeric. Limits the number of entities to be returned. The API-Limit is 20.}
+\item{types}{character. Restricts returned entities to those of the specified types. For example, you can specify Person (as defined in http://schema.org/Person) to restrict the results to entities representing people. If multiple types are specified, returned entities will contain one or more of these types. Default are all types.}
+\item{prefix}{logical. Enables prefix (initial substring) match against names and aliases of entities. For example, a prefix Jung will match entities and aliases such as Jung, Jungle, and Jung-ho Kang. Default is FALSE.}
+\item{type_output}{logical. In most cases, the API returns more than one type for a keyword. If type_output is set to TRUE, the types are placed in a cell. FALSE returns the list of types in a row. Default is TRUE.}
+}
 \description{
 This function allows you to get the Information for a specific Keyword you enter. The output is a Dataframe with the Data retrived by the Google API.
 }
