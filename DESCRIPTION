@@ -1,11 +1,11 @@
-Package: GoogleKnowledgeGraph
+Package: GoogleKnowledgeGraphR
 Type: Package
-Title: A simple Package to retrieve information from Google Knowledge Graph API
+Title: 'Retrieve information from 'Google Knowledge Graph' API'
 Version: 0.1.0
 Author: Daniel Schmeh
-Maintainer: The package maintainer <danielschmeh@gmail.com>
-Description: The GoogleKnowledgeGraph Package allows you to retrieve information from the Google Knowledge Graph API (https://www.google.com/intl/bn/insidesearch/features/search/knowledge.html) and process it in R in various forms. The Knowledge Graph Search API lets you find entities in the Google Knowledge Graph. The API uses standard schema.org types and is compliant with the JSON-LD specification.
-License: MIT
+Maintainer: Daniel Schmeh <danielschmeh@gmail.com>
+Description: The 'GoogleKnowledgeGraphR' Package allows you to retrieve information from the 'Google Knowledge Graph' API <https://www.google.com/intl/bn/insidesearch/features/search/knowledge.html> and process it in R in various forms. The 'Knowledge Graph Search' API lets you find entities in the 'Google Knowledge Graph'. The API uses standard 'schema.org' types and is compliant with the JSON-LD specification.
+License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
 RoxygenNote: 6.0.1.9000
