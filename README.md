@@ -2,6 +2,11 @@
 A simple R Package to retrieve information from Google Knowledge Graph API. You find more information about the Knowledge Graph here: https://www.google.com/intl/bn/insidesearch/features/search/knowledge.html
 
 # Installation 
+To get the current stable Version from CRAN:
+
+```
+install.packages("GoogleKnowledgeGraphR")
+```
 To get the current development version from github:
 
 ```
