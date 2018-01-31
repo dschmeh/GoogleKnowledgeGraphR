@@ -1,4 +1,6 @@
 # GoogleKnowledgeGraphR
+[![Rdoc](https://www.r-pkg.org/badges/version/GoogleKnowledgeGraphR)](https://www.r-pkg.org/badges/version/GoogleKnowledgeGraphR)
+
 A simple R Package to retrieve information from Google Knowledge Graph API. You find more information about the Knowledge Graph here: https://www.google.com/intl/bn/insidesearch/features/search/knowledge.html
 
 # Installation 
