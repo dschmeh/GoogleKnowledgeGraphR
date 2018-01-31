@@ -3,3 +3,4 @@ cache: packages
 r_packages:
 - jsonlite
 - curl
+warnings_are_errors: false
