@@ -1,5 +1,5 @@
 # GoogleKnowledgeGraphR
-[![Rdoc](https://www.r-pkg.org/badges/version/GoogleKnowledgeGraphR)](https://www.r-pkg.org/badges/version/GoogleKnowledgeGraphR)
+[![Rdoc](https://www.r-pkg.org/badges/version/GoogleKnowledgeGraphR)](https://cran.r-project.org/web/packages/GoogleKnowledgeGraphR/index.html)
 [![Build Status](https://travis-ci.org/dschmeh/GoogleKnowledgeGraphR.svg?branch=master)](https://travis-ci.org/dschmeh/GoogleKnowledgeGraphR)
 
 A simple R Package to retrieve information from Google Knowledge Graph API. You find more information about the Knowledge Graph here: https://www.google.com/intl/bn/insidesearch/features/search/knowledge.html
